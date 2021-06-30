@@ -1,4 +1,4 @@
-### Домашнее задание №1
+# qa_ksendzov_dz_1
 
 2. **Создать папку -** `mkdir foldername`
 3. **Зайти в папку -** `cd foldername`
@@ -40,8 +40,4 @@ cd first_folder
 touch 1.txt 2.txt 3.txt 1.json 2.json
 mkdir four_folder five_folder six_folder
 mv 1.json 1.txt five_folder```
-
-
-
-
 
